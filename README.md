@@ -43,10 +43,10 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/buildwithnomi/BrainSightAI.git](https://github.com/buildwithnomi/BrainSightAI.git)
-    cd BrainSightAI
-    ```
+```bash
+git clone [https://github.com/buildwithnomi/BrainSightAI.git](https://github.com/buildwithnomi/BrainSightAI.git)
+cd BrainSightAI
+```
 
 2.  **Place the Model File**
     * Copy your `brain_tumor_model.pt` file into the `app/src/main/assets/` directory of the project.
