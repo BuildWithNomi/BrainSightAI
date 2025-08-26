@@ -44,7 +44,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the Repository**
 ```bash
-git clone [https://github.com/buildwithnomi/BrainSightAI.git](https://github.com/buildwithnomi/BrainSightAI.git)
+git clone https://github.com/buildwithnomi/BrainSightAI.git
 cd BrainSightAI
 ```
 
