@@ -1,0 +1,24 @@
+# Gradle files
+.gradle/
+/local.properties
+
+# Android Studio files
+.idea/
+.DS_Store
+
+# Build artifacts
+/build/
+/app/build/
+
+# Keystore and signing files
+*.jks
+*.keystore
+
+# PyTorch Mobile models
+# Ensure your model file is NOT listed here if you want to upload it
+# *.pt
+
+# Generated files
+/app/src/main/res/generated/
+/app/src/main/res/layout/generated/
+/app/src/main/res/values/generated/
